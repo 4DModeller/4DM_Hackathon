@@ -1,0 +1,43 @@
+title: 4DM Hackathon
+description:  A 2-day Hackathon to develop Spatio-Temporal models related to Svalbard, using the 4DModeller - R package fdmr.
+  Taking place in Oslo from 2-3 November 2023.
+email: 4Dmodeller@bristol.ac.uk
+
+theme: minima
+
+# base_url: /gh-pages-minima-starter
+base_url: /_pages/frontpage.md
+
+# Minima social links
+github_username: 4DModeller
+
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+plugins:
+  - jekyll-redirect-from
+
+# Minima: custom header links
+header_pages:
+#  - _pages/frontpage.md
+  - _pages/background_info.md
+  - _pages/projects.md
+  - _pages/practical_info.md
+  - _pages/organizers.md
+  - _pages/register.md
+
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md

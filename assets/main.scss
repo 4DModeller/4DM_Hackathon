@@ -1,0 +1,31 @@
+---
+---
+
+@import "minima";
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: #383838;
+}
+
+// .site-title::before {
+// content: url("../assets/imgs/HQ1.png");
+// display: inline-block;
+// // display: flex
+// transform: scale(0.1);
+// position: relative;
+// width: 0.05px;
+// top: 5px;
+// }
+
+.site-title::before {
+content: url("../assets/imgs/HQ1.png");
+margin-top: 10px;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+transform: scale(0.4);
+width: 3px;
+top: 0.5px;
+}
