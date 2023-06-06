@@ -11,7 +11,7 @@ The 4D-Modeller package (4DM) is a software tool developed to address a wide ran
 (Sha et al., 2019; [GlobalMass](https://www.globalmass.eu)) that enables the estimation and separation of complex physical processes driving phenomena like sea level rise. The success of the project led to the development of 4DM, applicable to any spatio-temporal process. The package has been successfully applied to diverse problems including COVID-19 transmission, Norwegian hydropower generation, and glacial lake dynamics.
 
 <br/>
-<img src="assets/imgs/sea_level.png"  alt="Excerpt from EGU presentation" style="vertical-align:middle" >
+<img src="assets/imgs/Delta10_spatial_massBudget.png"  alt="GlobalMass test plot" style="vertical-align:middle" >
 
 <br/>
 

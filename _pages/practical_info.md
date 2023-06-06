@@ -20,7 +20,7 @@ The hackathon will take place 2-3 November 2023 in Oslo, following the Svalbard 
 #### Who can participate
 Anyone interested in Spatio-Temporal modelling. For the first hackathon in November 2023 an interest in Svalbard related problems is desired. 
 Another 4DM hackathon is planned for spring 2024 with a broader perspective to further develop, extend and exploit the capabilities of 4DM. This will be in a global context.
-Some experience with R is desired. 
+Some experience with R and GitHub is desired. 
 
 <br />
 

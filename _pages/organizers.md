@@ -20,7 +20,7 @@ Organised by:
 * Jonathan Bamber ([University of Bristol](https://www.bristol.ac.uk/geography/), [TU Munich AI4EO Lab](https://ai4eo.de))
 * Richard Westaway ([University of Bristol](https://www.bristol.ac.uk/geography/))
 * Xueqing Yin ([University of Bristol](https://www.bristol.ac.uk/geography/))
-* Gareth Jones ([University of Bristol](https://www.bristol.ac.uk/geography/))
+* Gareth Jones ([University of Bristol](http://www.bris.ac.uk/acrc/research-software-engineering/))
 * Kate Heerema ([Expert Analytics](https://www.expertanalytics.no))
 
 <br/>
