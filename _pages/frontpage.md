@@ -35,7 +35,7 @@ Workshop Details:
 📅Date: 2-3 November 2023 <br/>
 📍Location: Oslo, Norway <br/>
 ⚙️Domains: Climate science, hydrology, glaciology <br/>
-🚀Outcome: Development of new tutorials and features for FDMR <br/>
+🚀Outcome: Development of case studies and research challenges in spatio-temporal modelling <br/>
 📝Participants: 20 researchers and experts <br/>
 <br/>
 Visit [our website 4dmodeller](https://4dmodeller.github.io/fdmr/index.html) for more information. Let's shape the future of spatio-temporal modeling together. 
