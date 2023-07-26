@@ -30,6 +30,8 @@ In addition, our hackathon follows Tutorial Driven Software Development, pioneer
 
 Secure your spot in this pioneering community that revolutionizes spatio-temporal modeling. Register now for our first hackathon, coinciding with the Svalbard Science Forum meeting in November 2023. Unleash the potential of FDMR and address Svalbard's pressing research questions.
 
+While this hackathon is focused on improving spatio-temporal statistical modeling of Svalbard related data, we also welcome applicants with wider research interests within a spatio-temporal modelling context. Please ensure to specify a personal project idea using 4DM if you want to work outside the Svalbard scope.
+
 Workshop Details:
 
 📅Date: 2-3 November 2023 <br/>
