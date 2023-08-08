@@ -7,8 +7,6 @@ list_title: Schedule
 <br/>
 <br/>
 
-## Preliminary schedule
-
 #### Thursday November 2<br/>
 0930 - Talks<br/>
 1015 - Coffee Break<br/>
