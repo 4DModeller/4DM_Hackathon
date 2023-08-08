@@ -2,10 +2,12 @@
 permalink: /preliminary_schedule
 layout: page
 title: Preliminary schedule
-list_title: Preliminary schedule
+list_title: Schedule
 ---
 <br/>
 <br/>
+
+## Preliminary schedule
 
 #### Thursday November 2<br/>
 0930 - Talks<br/>

@@ -1,7 +1,7 @@
 ---
 permalink: /practicalinfo
 layout: page
-title: Practical information
+title: Practical
 list_title: Practical information
 ---
 <br />
