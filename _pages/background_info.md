@@ -1,8 +1,8 @@
 ---
 permalink: /backgroundinfo
 layout: page
-title: Background information
-list_title: Background information
+title: Background
+list_title: Background
 ---
 
 <br/>
