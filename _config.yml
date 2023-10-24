@@ -28,8 +28,8 @@ header_pages:
   - _pages/projects.md
   - _pages/organizers.md
   - _pages/practical_info.md
-  - _pages/preliminary_schedule.md
-  - _pages/register.md
+  - _pages/schedule.md
+#  - _pages/register.md
 
 
 include:
