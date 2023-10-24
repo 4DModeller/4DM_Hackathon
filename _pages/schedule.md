@@ -34,11 +34,9 @@ Blindern
 **1430** - Activity One : Building the End-To-End tutorial in Rstudio, John M. Aiken, Gareth Jones, Xueqing Yin<br/>
 **1600** - Coffee Break<br/>
 **1630** - Activity Two: Connecting purpose built tutorials to your work/data sets, John M. Aiken, Gareth Jones, Xueqing Yin<br/>
-            <ul>
-              <li>How to properly formatted data sets</li>
-              <li>Overview of tutorials available</li>
-              <li>Building one of the tutorials and trying to rebuild it for your data set</li>
-            </ul>
+        ** How to properly formatted data sets<br/>
+        ** Overview of tutorials available<br/>
+        ** Building one of the tutorials and trying to rebuild it for your data set<br/>
 **1800** - Group organization, begin building tutorial for your own data sets<br/>
 **1830** - You may work together, go home, etc. <br/>
 
