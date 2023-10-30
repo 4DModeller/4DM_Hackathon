@@ -6,9 +6,17 @@ list_title: Practical information
 ---
 <br />
 
-#### Registration
-Please register via [this google form](https://docs.google.com/forms/d/e/1FAIpQLSeMP7LZ7i7stw1ObdusBQN47eAsNq5uBur4wyW3e4WvgmE5YQ/viewform?usp=sf_link)
-latest by 31st of August. Accepted participants will be informed around September 4th.
+[//]: # (#### Registration)
+
+[//]: # (Please register via [this google form]&#40;https://docs.google.com/forms/d/e/1FAIpQLSeMP7LZ7i7stw1ObdusBQN47eAsNq5uBur4wyW3e4WvgmE5YQ/viewform?usp=sf_link&#41;)
+
+[//]: # (latest by 31st of August. Accepted participants will be informed around September 4th.)
+
+[//]: # ()
+[//]: # (<br />)
+
+#### Travelling
+Travelling to/from Oslo Airport is quite straightforward with regular bus and train departures. Please check vy.no, flytoget.no, or of course maps.google.com.
 
 <br />
 
