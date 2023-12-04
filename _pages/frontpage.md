@@ -12,37 +12,27 @@ list_title: Home
 
 <br/>
 
-<img src="assets/imgs/svalbard.png" alt="Svalbard" style="vertical-align:middle; margin:0px 150px" width=400px>
+<img src="assets/imgs/image005.jpg" alt="Bristol" style="vertical-align:middle; margin:0px 150px" width=400px>
 
 <br/>
 
+Discover the possibilities of solving complex spatio-temporal problems and advancing statistical modelling in R. Registration is now open here for a two-and-a-half-day workshop, from Monday 25th to Wednesday 27th March 2024 at the University of Bristol, to contribute to the development of the innovative 4Dmodeller (FDMR) package. Limited funding is available for travel costs.
 
-
-Discover the possibilities of solving complex spatio-temporal problems and advancing statistical modeling in R. Join our two-day workshops where you can collaborate with the Svalbard research community and contribute to the development of the innovative 4D-Modeller (FDMR) package.
-
-FDMR, a powerful R package built upon a successful Bayesian Hierarchical Model, addresses diverse spatio-temporal challenges. From COVID-19 transmission to Norwegian hydropower and glacial lake dynamics in the Tibetan Plateau, FDMR has proven its effectiveness.
-
-In the hackathon-style workshop, you'll work closely with the FDMR development team and fellow researchers to enhance the package for Svalbard's unique research questions. By integrating the Svalbard research community into a shared data analytics platform, your insights will shape the future development of FDMR.
-
-FDMR employs Bayesian Hierarchical Models for probabilistic inference and handles big data efficiently. Its user-friendly tutorial vignettes make it accessible to researchers without advanced statistical expertise.
-
-In addition, our hackathon follows Tutorial Driven Software Development, pioneered by the University of Bristol's Research Software Engineering Department. This innovative practice aligns the software with scientists' needs and ensuring robust documentation for wider adoption.  
-
-Secure your spot in this pioneering community that revolutionizes spatio-temporal modeling. Register now for our first hackathon, coinciding with the Svalbard Science Forum meeting in November 2023. Unleash the potential of FDMR and address Svalbard's pressing research questions.
-
-While this hackathon is focused on improving spatio-temporal statistical modeling of Svalbard related data, we also welcome applicants with wider research interests within a spatio-temporal modelling context. Please ensure to specify a personal project idea using 4DM if you want to work outside the Svalbard scope.
+In the hackathon-style workshop, you’ll work closely with the FDMR development team and fellow researchers to enhance the package for a range of research questions, and in so doing help shape the future development of FDMR. Participants will be invited to submit their own project ideas in advance of the hackathon giving you the chance to nominate complex spatio-temporal problems associated with your own research that can be worked on collaboratively.
 
 Workshop Details:
 
-📅Date: 2-3 November 2023 <br/>
-📍Location: Oslo, Norway <br/>
-⚙️Domains: Climate science, hydrology, glaciology <br/>
-🚀Outcome: Development of case studies and research challenges in spatio-temporal modelling <br/>
-📝Participants: 20 researchers and experts <br/>
-<br/>
-Visit [our website 4dmodeller](https://4dmodeller.github.io/fdmr/index.html) for more information. Let's shape the future of spatio-temporal modeling together. 
-<br/>
-<br/>See you at the hackathon! 👩‍💻
+📅Date: 25-27 March 2024
+📍Location: Bristol, UK
+⚙️Domains: Any field that involves complex spatio-temporal data sets
+🚀Outcome: Development of case studies, tutorials and new research challenges in spatio-temporal modelling
+📝Participants: ~20 researchers and experts
+
+✅Registration: Register now at https://forms.gle/7PWa3oVNu6AxqBRM6. Registration deadline is 15 January 2024
+
+Visit our website 4dmodeller for more information. Let’s shape the future of spatio-temporal modelling together.
+
+See you at the hackathon! 👩‍💻
 
 
 <a href="https://www.mn.uio.no/njord/english/about/index.html"><img src="assets/imgs/Njord.png" width="400px" height="285px" alt="Njord Centre at University of Oslo" style="vertical-align:middle;margin:0px 150px"></a>

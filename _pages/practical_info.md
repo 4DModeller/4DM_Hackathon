@@ -8,33 +8,32 @@ list_title: Practical information
 
 [//]: # (#### Registration)
 
-[//]: # (Please register via [this google form]&#40;https://docs.google.com/forms/d/e/1FAIpQLSeMP7LZ7i7stw1ObdusBQN47eAsNq5uBur4wyW3e4WvgmE5YQ/viewform?usp=sf_link&#41;)
+[//]: # (Please register via [this google form]&#40https://forms.gle/7PWa3oVNu6AxqBRM6)
 
-[//]: # (latest by 31st of August. Accepted participants will be informed around September 4th.)
+[//]: # (latest by 15th of January 2024. Accepted participants will be informed around February 1st.)
 
 [//]: # ()
 [//]: # (<br />)
 
 #### Travelling
-Travelling to/from Oslo Airport is quite straightforward with regular bus and train departures. Please check vy.no, flytoget.no, or of course maps.google.com.
+Traveling to Bristol is straigtforward and you can either travel there from train via London or through the Bristol airport
 
 <br />
 
 #### Dates and Location
-The hackathon will take place 2-3 November 2023 in Oslo, following the Svalbard Science Conference. An exact location in Oslo will follow.
+The hackathon will take place March 25-27, 2024 at the University of Bristol School for Geographical Sciences.
 
 <br />
 
 #### Who can participate
-Anyone interested in Spatio-Temporal modelling. For the first hackathon in November 2023 an interest in Svalbard related problems is desired. 
-Another 4DM hackathon is planned for spring 2024 with a broader perspective to further develop, extend and exploit the capabilities of 4DM. This will be in a global context.
+Anyone interested in Spatio-Temporal modelling. 
 Some experience with R and GitHub is desired. 
 
 <br />
 
 #### Finances
 Participation in the hackathon is free. 
-There will be a possibility to apply for partial financial support for travel costs, more details will follow
+There will be a possibility to apply for partial financial support for travel costs.
 
 <br />
 
@@ -47,10 +46,8 @@ Please bring:
 
 
 #### Agenda
-We will start the Thursday morning with a few introductory talks, before proceeding with the hackathon itself.
+We will start with Lunch of Monday then several introductory talks, before proceeding with the hackathon itself.
 The talks will include an introductory talk from Jonathan Bamber, followed by a talk on tutorial-driven development from Christopher Woods. 
-Ilkka Matero will discuss SIOS (Svalbard Integrated Arctic Earth Observing System) data.
-
 <br />
 
 #### COVID

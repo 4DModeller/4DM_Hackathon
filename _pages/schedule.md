@@ -4,7 +4,9 @@ layout: page
 title: Schedule
 list_title: Schedule
 ---
-<br/>
+
+More info coming soon.
+<!-- <br/>
 <br/>
 Hackathon Schedule - Welcome to the 2023 4D-Modeller Hackathon. 
 You will find the finalized schedule below. <br/>
@@ -51,4 +53,4 @@ Blindern
 **1300** - Hackathon Group Work<br/>
 **1530** - Explain your tutorial to other groups<br/>
 **1700** - Wrap up<br/>
-**1830** - Dinner at Restaurant<br/>
+**1830** - Dinner at Restaurant<br/> -->
