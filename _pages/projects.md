@@ -22,7 +22,7 @@ The registration form allows for ranking the problem spaces according to interes
 ##### Project created by Thomas V. Schuler, UiO    
 Glacier evolution instabilities (surging) are governed predominantly by subglacial hydrology and basal friction. Due to these instabilities causing large mass redistribution in a short time, it is typically difficult to estimate glacier mass evolution with dominating instabilities as well as the contributions of these processes to the triggering of the instability. 4DM will be applied to estimate stress field changes at the glacier bed in the context of remotely sensed velocity fields, meltwater supply, surface and basal topography and other data. -->
 
-<br />
+<!-- <br />
 
 ---
 
@@ -33,7 +33,7 @@ What are the factors that contribute to variations in snow thickness? Factors su
 
 <br />
 
----
+--- -->
 
 
 <!-- #### Rock glacier and permafrost dynamics

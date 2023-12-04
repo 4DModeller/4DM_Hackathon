@@ -22,13 +22,13 @@ In the hackathon-style workshop, you’ll work closely with the FDMR development
 
 Workshop Details:
 
-📅Date: 25-27 March 2024
-📍Location: Bristol, UK
-⚙️Domains: Any field that involves complex spatio-temporal data sets
-🚀Outcome: Development of case studies, tutorials and new research challenges in spatio-temporal modelling
-📝Participants: ~20 researchers and experts
+📅Date: 25-27 March 2024<br>
+📍Location: Bristol, UK<br>
+⚙️Domains: Any field that involves complex spatio-temporal data sets<br>
+🚀Outcome: Development of case studies, tutorials and new research challenges in spatio-temporal modelling<br>
+📝Participants: ~20 researchers and experts<br>
 
-✅Registration: Register now at https://forms.gle/7PWa3oVNu6AxqBRM6. Registration deadline is 15 January 2024
+✅Registration: [Register now!](https://forms.gle/7PWa3oVNu6AxqBRM6). Registration deadline is 15 January 2024.
 
 Visit our website 4dmodeller for more information. Let’s shape the future of spatio-temporal modelling together.
 
