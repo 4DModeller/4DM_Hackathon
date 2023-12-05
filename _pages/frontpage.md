@@ -8,7 +8,7 @@ list_title: Home
 
 <br/>
 
-📢📢 Join the Cutting-Edge Spatio-Temporal Modeling Hackathon in Svalbard! 📢📢
+📢📢 Join the Cutting-Edge Spatio-Temporal Modeling Hackathon! 📢📢
 
 <br/>
 
