@@ -22,7 +22,7 @@ Noon lunch
 1800 dinner
 
 
-##Tuesday
+## Tuesday
 
 0900-1700 Hackathon with lunch and coffee served on site
 
