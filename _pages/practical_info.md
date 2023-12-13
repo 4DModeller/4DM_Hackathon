@@ -24,7 +24,7 @@ Traveling to Bristol is straigtforward and you can either travel there from trai
 The hackathon will take place March 25-27, 2024 at the University of Bristol School for Geographical Sciences.
 
 <br />
-<a href="/assets/Hotels.pdf">You can find a list of hotels here.</a>
+<a href="https://raw.githubusercontent.com/4DModeller/4DM_Hackathon/main/assets/Hotels.pdf">You can find a list of hotels here.</a>
 <br />
 
 #### Who can participate
